@@ -1,0 +1,32 @@
+*
+{
+margin: 0;
+padding: 0;
+
+}
+body
+{
+    background-image: url(iim.jpg);
+    height: 750px;
+    background-position: center;
+    background-size: cover;
+    font-family: sans-serif;
+    background-repeat: no-repeat;
+}
+table
+
+{
+    border: 8px;
+    color: black;
+    border-radius: 20px;
+    border-style: ridge;  
+    box-shadow: 23px;
+    box-sizing: border-box;
+    position:relative;
+    margin: auto;
+    margin-top: 73px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    fallback: var(Impact);
+    fallback: var(font-family);
+    /* margin-left: ; */
+   }
